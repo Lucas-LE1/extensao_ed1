@@ -4,7 +4,7 @@
 ![Contribuidores](https://img.shields.io/badge/Contribuidores-7-blue)
 ![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-orange)
 ![Cobertura de Testes](https://img.shields.io/badge/Cobertura%20de%20Testes-80%25-yellow)
-![Última Atualização](https://img.shields.io/badge/%C3%9Altima%20Atualiza%C3%A7%C3%A3o-Dez-2023-blueviolet)
+![Última Atualização](https://img.shields.io/badge/%C3%9Altima%20Atualiza%C3%A7%C3%A3o-Dezembro%202023-blueviolet)
 
 Este projeto visa desenvolver um sistema eficiente para o setor Maria da Penha da Polícia Militar de Caxias, Maranhão, que lida com o atendimento de mulheres vítimas de violência doméstica. O sistema abrange desde o cadastro inicial das vítimas até a gestão das medidas protetivas, proporcionando um controle mais organizado e eficaz.
 
