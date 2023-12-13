@@ -28,7 +28,7 @@ typedef struct vitima
     struct node *next;
 } Vitima;
 
-// estrutura fila - controlador
+// controlador de lista, evitar ponteiro para ponteiro
 typedef struct queue
 {
     Vitima *inicio;
