@@ -42,8 +42,8 @@ Essas estruturas de dados foram escolhidas para otimizar o processo de gerenciam
 - **@heraclitothiago (Thiago)**
 - **@Carlos-Coutinho (Carlos)**
 - **@VictorECM27 (Victor)**
-- **@BrunoGoncalves (Bruno)**
-- **@IssacSilva (Issac)**
+- **@Bruno (Bruno)**
+- **@Issac (Issac)**
 - **@AlisonVaz (Alison)**
 
 ## Contexto Acadêmico
