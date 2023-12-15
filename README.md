@@ -51,3 +51,7 @@ Essas estruturas de dados foram escolhidas para otimizar o processo de gerenciam
 Este projeto foi desenvolvido como parte da avaliação NP3 da disciplina de Estrutura de Dados do curso de Ciência da Computação. O objetivo é aplicar os conhecimentos adquiridos na disciplina para resolver um problema real, contribuindo para a melhoria dos serviços prestados pelo Setor Maria da Penha da Polícia Militar de Caxias, Maranhão.
 
 *Nota: Certifique-se de incluir instruções claras de instalação e utilização no seu README, além de quaisquer considerações adicionais sobre o projeto.*
+
+## Contexto Social
+
+Apesar de sua simplicidade aparente, este projeto se destaca ao representar o funcionamento diferenciado do setor policial no atendimento às vítimas de violência doméstica. A implementação de uma fila de prioridade com base no status da medida protetiva oferece uma abordagem eficiente e organizada para lidar com situações críticas. Essa estrutura, embora simples em sua concepção, destaca-se ao priorizar e agilizar o atendimento às vítimas, refletindo o compromisso do setor Maria da Penha da Polícia Militar de Caxias, Maranhão, em oferecer uma resposta mais ágil e eficaz diante de casos de violência doméstica.
