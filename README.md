@@ -32,11 +32,7 @@ O sistema faz uso das seguintes estruturas de dados:
 - Utilizada para armazenar os registros de vítimas, permitindo um fácil gerenciamento e adição dinâmica de informações.
 - Cada nó da lista representa uma vítima e inclui dados como nome, CPF, idade, endereço, status da medida protetiva, entre outros.
 
-### 2. Árvore de Prioridades
-- Implementada para gerenciar a prioridade no atendimento das vítimas.
-- Considera-se o grau de risco e a urgência do atendimento para organizar a ordem de atendimento das vítimas.
-
-### 3. Estruturas de Dados para Manipulação de Data e Hora
+### 2. Estruturas de Dados para Manipulação de Data e Hora
 - Utilizadas para o registro da data final da medida protetiva e para o gerenciamento das datas de atendimento.
 
 Essas estruturas de dados foram escolhidas para otimizar o processo de gerenciamento de atendimentos, garantindo eficiência e organização na prestação de assistência às vítimas da Lei Maria da Penha.
