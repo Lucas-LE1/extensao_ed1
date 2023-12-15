@@ -45,9 +45,6 @@ Essas estruturas de dados foram escolhidas para otimizar o processo de gerenciam
 - **@BrunoGoncalves (Bruno)**
 - **@IssacSilva (Issac)**
 - **@AlisonVaz (Alison)**
-- **@Colaborador5**
-- **@Colaborador6**
-- **@Colaborador7**
 
 ## Contexto Acadêmico
 
