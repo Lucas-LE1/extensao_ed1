@@ -10,6 +10,9 @@ Este projeto visa desenvolver um sistema eficiente para o Setor Maria da Penha d
 
 ## Objetivo(s) do Sistema
 
+- Entrevistado: Mauricio Oliveira Gomes
+- Cargo: Soldado
+
 O sistema foi desenvolvido com os seguintes objetivos:
 
 ### 1. Auxiliar no Atendimento de Mulheres Vítimas de Violência
