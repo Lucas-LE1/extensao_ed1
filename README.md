@@ -12,6 +12,7 @@ Este projeto visa desenvolver um sistema eficiente para o Setor Maria da Penha d
 
 - Entrevistado: Mauricio Oliveira Gomes
 - Cargo: Soldado
+- Local: Quartel de Policia
 
 O sistema foi desenvolvido com os seguintes objetivos:
 
